@@ -1,0 +1,71 @@
+[{
+	"Plant": "1000",
+	"PlantName": "Brasil",
+	"__metadata": {
+		"uri": "A_Plant('Plant%201')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "2000",
+	"PlantName": "Canadá",
+	"__metadata": {
+		"uri": "A_Plant('Plant%202')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "Plant 3",
+	"PlantName": "PlantName 3",
+	"__metadata": {
+		"uri": "A_Plant('Plant%203')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "Plant 4",
+	"PlantName": "PlantName 4",
+	"__metadata": {
+		"uri": "A_Plant('Plant%204')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "Plant 5",
+	"PlantName": "PlantName 5",
+	"__metadata": {
+		"uri": "A_Plant('Plant%205')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "Plant 6",
+	"PlantName": "PlantName 6",
+	"__metadata": {
+		"uri": "A_Plant('Plant%206')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "Plant 7",
+	"PlantName": "PlantName 7",
+	"__metadata": {
+		"uri": "A_Plant('Plant%207')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "Plant 8",
+	"PlantName": "PlantName 8",
+	"__metadata": {
+		"uri": "A_Plant('Plant%208')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "Plant 9",
+	"PlantName": "PlantName 9",
+	"__metadata": {
+		"uri": "A_Plant('Plant%209')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}, {
+	"Plant": "Plant 10",
+	"PlantName": "PlantName 10",
+	"__metadata": {
+		"uri": "A_Plant('Plant%2010')",
+		"type": "API_PLANT_SRV.A_PlantType"
+	}
+}]
